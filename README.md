@@ -1,14 +1,12 @@
 # 🚀 LangGraph Tutorial Series - Enhanced Documentation
 
-Welcome to the comprehensive LangGraph tutorial series! This enhanced documentation includes interactive visualizations and improved explanations to guide you through building sophisticated, stateful applications with LangGraph.
+Welcome to the comprehensive LangGraph tutorial series! This enhanced documentation includes detailed explanations and practical examples to guide you through building sophisticated, stateful applications with LangGraph.
 
 ## 🎯 What is LangGraph?
 
 LangGraph is a revolutionary library for building stateful, multi-actor applications with Large Language Models (LLMs). It extends the LangChain ecosystem by providing a robust framework for creating complex workflows that can handle state management, conditional logic, and multi-agent interactions with unprecedented ease and flexibility.
 
 ### 🔄 How LangGraph Works
-
-**[View Interactive LangGraph Flow Diagram →](./plots/langgraph_flow.html)**
 
 LangGraph operates on a fundamentally different paradigm than traditional chatbots or linear chains. Here's how it processes requests:
 
@@ -21,8 +19,6 @@ LangGraph operates on a fundamentally different paradigm than traditional chatbo
 
 ### 🏗️ LangGraph vs Traditional Approaches
 
-**[View Interactive Comparison Chart →](./plots/comparison_chart.html)**
-
 | Feature | Traditional LangChain | LangGraph | Advantage |
 |---------|----------------------|-----------|-----------|
 | **State Management** | ❌ Limited session memory | ✅ Full persistent state | 🎯 Remember entire conversation context |
@@ -34,8 +30,6 @@ LangGraph operates on a fundamentally different paradigm than traditional chatbo
 | **Tool Integration** | ❌ Limited tool chaining | ✅ Rich tool ecosystem | 🔧 Extensible functionality |
 
 ## 📚 Enhanced Tutorial Structure
-
-**[View Interactive Learning Path →](./plots/learning_path.html)**
 
 This tutorial series follows a carefully designed progression that builds your expertise systematically:
 
